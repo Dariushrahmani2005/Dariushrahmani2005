@@ -1,189 +1,303 @@
+<!-- GitHub Profile README | Dariush Rahmani -->
+
 <div align="center">
 
-# Hi, I'm Dariush Rahmani 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:0EA5E9,100:22C55E&height=230&section=header&text=Dariush%20Rahmani&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%E2%80%A2%20Node.js%20%E2%80%A2%20Express.js%20%E2%80%A2%20MongoDB&descAlignY=57&descSize=18" alt="Dariush Rahmani - Backend Developer" />
 
-### Backend Developer — Node.js • Express.js • MongoDB
+<a href="https://www.dariushrahmani.ir">
+  <img src="https://img.shields.io/badge/Portfolio-dariushrahmani.ir-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/dariushramani-dev">
+  <img src="https://img.shields.io/badge/LinkedIn-Dariush%20Rahmani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:dariushrahmanidev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-I build backend systems, REST APIs, authentication flows, real-time features, and database-driven applications.
+<br/><br/>
 
-Currently expanding my stack with **NestJS**, **PostgreSQL**, and stronger backend architecture practices.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-dariushrahmani.ir-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.dariushrahmani.ir)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dariush%20Rahmani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dariushramani-dev)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dariushrahmanidev@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=Dariushrahmani2005&style=flat-square&color=0EA5E9&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a backend-focused developer working primarily with **JavaScript, Node.js, Express.js, and MongoDB**.
-
-My experience includes building APIs for real business workflows as well as portfolio projects involving **authentication, authorization, payments, file management, real-time communication, admin systems, and API documentation**.
-
-I enjoy turning complex business requirements into clean backend modules and maintainable APIs.
-
-- 🔭 Currently working on a production backend project built from scratch with Node.js, Express.js, and MongoDB
-- 🌱 Learning **NestJS**, **PostgreSQL**, and deeper SQL/database design
-- 🧠 Interested in backend architecture, API design, security, performance, testing, and system design
-- 🤝 Experienced in both independent backend development and team-based projects
-- 🎯 Goal: grow into a strong backend engineer capable of building reliable, scalable production systems
-
----
-
-## 🛠️ Backend Stack
-
-### Core
-
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs)
-![Express.js](https://img.shields.io/badge/Express.js-111827?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb)
-![Mongoose](https://img.shields.io/badge/Mongoose-111827?style=flat-square&logo=mongoose)
-
-### API, Security & Real-time
-
-![REST API](https://img.shields.io/badge/REST_API-111827?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-111827?style=flat-square&logo=jsonwebtokens)
-![Swagger](https://img.shields.io/badge/Swagger-111827?style=flat-square&logo=swagger)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-111827?style=flat-square&logo=socketdotio)
-![Postman](https://img.shields.io/badge/Postman-111827?style=flat-square&logo=postman)
-
-### Tools & Infrastructure
-
-![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github)
-![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker)
-![Nginx](https://img.shields.io/badge/Nginx-111827?style=flat-square&logo=nginx)
-![Redis](https://img.shields.io/badge/Redis-111827?style=flat-square&logo=redis)
-
-### Currently Learning
-
-![NestJS](https://img.shields.io/badge/NestJS-Learning-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Learning-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Deepening-336791?style=flat-square)
-
----
-
-## 🚀 Selected Backend Work
-
-### 🧩 Safiran — Production Backend
-**Node.js • Express.js • MongoDB**
-
-A production backend that I started from scratch and continue to develop professionally.
-
-Key areas include authentication and authorization, role/permission management, business workflows, financial operations, notifications, document handling, API security, and maintainable modular backend design.
-
-> Private company project — source code is not public.
-
----
-
-### 🚢 Lima — Shipping Platform Backend
-**Node.js • Express.js • MongoDB**
-
-Worked as one of the backend developers on a shipping-company platform covering operational and business processes such as bookings, vessels, voyages, ports, containers, tariffs, reporting, authentication, and file/data management.
-
-> Commercial project — source code is not public.
-
----
-
-### 🛒 E-commerce Backend
-**Node.js • Express.js • MongoDB • JWT • Swagger**
-
-Backend for an online clothing store with product and variant management, categories, brands, cart, orders, discounts, inventory-related flows, authentication, admin functionality, file upload, API documentation, and payment integration.
-
-> Portfolio project — repository can be published after source cleanup and secret removal.
-
----
-
-### 🌍 Multilingual Product & Brand Platform
-**Node.js • Express.js • MongoDB**
-
-Backend for a multilingual product and brand introduction platform with Persian, English, and Arabic content, product/category/brand management, publishing workflows, localized slugs, search, pagination, validation, media management, and Swagger documentation.
-
-> Portfolio / client-style project.
-
----
-
-### 📱 Instagram-like Social Backend
-**Node.js • Express.js • MongoDB • Socket.IO**
-
-Social-media backend with users, profiles, posts, comments, likes, follow requests, private/public accounts, chats, messages, media upload, and real-time communication using Socket.IO.
-
-> Portfolio project focused on social and real-time backend concepts.
-
----
-
-### ☁️ MEGA-like File Management Backend
-**Node.js • Express.js • MongoDB**
-
-File-management backend inspired by cloud storage platforms, including authentication, file upload/download/delete, folders and subfolders, file metadata, and user file management.
-
-> Portfolio project.
-
----
-
-## 📌 Public Backend Repositories
-
-<a href="https://github.com/Dariushrahmani2005/Todo-List-API">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dariushrahmani2005&repo=Todo-List-API&hide_border=true" alt="Todo List API" />
-</a>
-<a href="https://github.com/Dariushrahmani2005/platform-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dariushrahmani2005&repo=platform-api&hide_border=true" alt="Platform API" />
-</a>
-
----
-
-## 🧭 What I'm Focusing On
+## `> whoami`
 
 ```text
-TypeScript
-   ↓
-Advanced Node.js / Backend Architecture
-   ↓
-SQL & PostgreSQL
-   ↓
-NestJS
-   ↓
-Testing
-   ↓
-Redis & Queues
-   ↓
-Docker / CI-CD
-   ↓
-System Design & Scalable Backend Systems
+Backend Developer focused on building clean, secure and maintainable APIs.
+
+I work primarily with Node.js, Express.js and MongoDB, with hands-on experience
+in production business workflows, authentication/authorization, payments,
+file management, real-time communication, admin systems and API documentation.
+
+Currently leveling up in TypeScript, NestJS, PostgreSQL and backend architecture.
+```
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔭 What I work on
+
+- Production backend development
+- RESTful API design
+- Authentication & authorization
+- Role / permission systems
+- Business workflows
+- Payment & financial flows
+- File & document management
+- Real-time features with Socket.IO
+- Swagger / OpenAPI documentation
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 What I care about
+
+- Clean modular architecture
+- Secure backend design
+- Maintainable codebases
+- Reliable database operations
+- Testing & production readiness
+- Performance and observability
+- System design
+- Continuous backend growth
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+### Backend & Languages
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express&theme=dark" alt="JavaScript, TypeScript, Node.js, Express.js"/>
+
+### Databases & Data
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&theme=dark" alt="MongoDB, PostgreSQL, Redis"/>
+
+### Tools & Infrastructure
+<img src="https://skillicons.dev/icons?i=git,github,docker,nginx,postman&theme=dark" alt="Git, GitHub, Docker, Nginx, Postman"/>
+
+### Currently Learning / Deepening
+<img src="https://skillicons.dev/icons?i=nestjs,postgres,ts&theme=dark" alt="NestJS, PostgreSQL, TypeScript"/>
+
+</div>
+
+---
+
+## 🧠 Backend Engineering Focus
+
+| Area | Experience / Focus |
+|---|---|
+| **API Design** | REST APIs, validation, pagination, filtering, search, Swagger/OpenAPI |
+| **Authentication** | JWT, access/refresh tokens, OTP flows, password hashing, session handling |
+| **Authorization** | RBAC, permissions, protected resources, admin/user access levels |
+| **Database** | MongoDB, Mongoose, transactions, data modeling; deepening SQL/PostgreSQL |
+| **Real-time** | Socket.IO, chat, notifications, online users |
+| **Files & Media** | Upload/download, media handling, file metadata, document workflows |
+| **Business Logic** | Payments, orders, bookings, financial flows, workflow/state management |
+| **Infrastructure** | Docker, Nginx, environment configuration, deployment-oriented practices |
+| **Next Step** | NestJS, PostgreSQL, testing, Redis/queues, system design |
+
+---
+
+## 💼 Selected Professional Experience
+
+### 🧩 Safiran — Backend Developer
+**Node.js • Express.js • MongoDB**
+
+Production backend developed from the ground up and continuously expanded around real business workflows.
+
+**Highlights**
+- OTP authentication, access/refresh tokens and session flows
+- Role and permission management
+- Request, booking and business workflow modules
+- Wallet, payment and refund-related flows
+- Notifications and worker/outbox-style processing
+- Idempotency-oriented logic and MongoDB transactions
+- Audit logging and document management
+- Swagger documentation, security middleware and automated tests
+
+> 🔒 Commercial project — source code is private.
+
+<br/>
+
+### 🚢 Lima — Backend Developer
+**Node.js • Express.js • MongoDB**
+
+Worked as one of the backend developers on a shipping-company platform.
+
+**Domain modules**
+`Bookings` · `Vessels` · `Voyages` · `Ports` · `Agents` · `Containers` · `Tariffs` · `Detention/Demurrage` · `Reports` · `Users/Roles`
+
+> 🔒 Commercial project — source code is private.
+
+---
+
+## 🚀 Featured Backend Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 E-commerce Backend
+
+**Node.js • Express.js • MongoDB • JWT • Swagger**
+
+Backend for an online clothing store.
+
+**Includes**
+- Products, variants, categories & brands
+- Cart, orders & discount codes
+- Authentication and admin flows
+- Search, filters and pagination
+- File upload
+- Payment integration and callback verification
+- Swagger documentation
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 Multilingual Product Platform
+
+**Node.js • Express.js • MongoDB**
+
+Backend for a multilingual product and brand introduction platform.
+
+**Includes**
+- Persian / English / Arabic content
+- Product, category & brand management
+- Draft / publish workflows
+- Localized slugs
+- Search & pagination
+- Media management
+- Validation & Swagger documentation
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📱 Instagram-like Backend
+
+**Node.js • Express.js • MongoDB • Socket.IO**
+
+Social-media backend focused on interaction and real-time communication.
+
+**Includes**
+- Users & profiles
+- Public/private accounts
+- Follow requests
+- Posts, comments & likes
+- Chat & messages
+- Media upload
+- Real-time events with Socket.IO
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ MEGA-like File Backend
+
+**Node.js • Express.js • MongoDB**
+
+File-management backend inspired by cloud storage platforms.
+
+**Includes**
+- Authentication
+- File upload / download / delete
+- Folders & subfolders
+- File metadata
+- User file management
+- OTP/password-based access flows
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📌 Public Repositories
+
+<div align="center">
+
+<a href="https://github.com/Dariushrahmani2005/Todo-List-API">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dariushrahmani2005&repo=Todo-List-API&theme=transparent&hide_border=true&title_color=0EA5E9&text_color=94A3B8&icon_color=22C55E" alt="Todo List API"/>
+</a>
+<a href="https://github.com/Dariushrahmani2005/platform-api">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dariushrahmani2005&repo=platform-api&theme=transparent&hide_border=true&title_color=0EA5E9&text_color=94A3B8&icon_color=22C55E" alt="Platform API"/>
+</a>
+
+</div>
+
+---
+
+## 🗺️ Backend Roadmap
+
+```mermaid
+flowchart LR
+    A[TypeScript] --> B[Advanced Node.js]
+    B --> C[SQL & PostgreSQL]
+    C --> D[NestJS]
+    D --> E[Testing]
+    E --> F[Redis & Queues]
+    F --> G[Docker & CI/CD]
+    G --> H[System Design]
+
+    style A fill:#0f172a,stroke:#0ea5e9,color:#fff
+    style B fill:#0f172a,stroke:#0ea5e9,color:#fff
+    style C fill:#0f172a,stroke:#0ea5e9,color:#fff
+    style D fill:#0f172a,stroke:#0ea5e9,color:#fff
+    style E fill:#0f172a,stroke:#22c55e,color:#fff
+    style F fill:#0f172a,stroke:#22c55e,color:#fff
+    style G fill:#0f172a,stroke:#22c55e,color:#fff
+    style H fill:#0f172a,stroke:#22c55e,color:#fff
 ```
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dariushrahmani2005&show_icons=true&hide_border=true&rank_icon=github" alt="Dariush's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dariushrahmani2005&layout=compact&hide_border=true" alt="Dariush's top languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dariushrahmani2005&show_icons=true&theme=transparent&hide_border=true&title_color=0EA5E9&text_color=94A3B8&icon_color=22C55E&rank_icon=github" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dariushrahmani2005&layout=compact&theme=transparent&hide_border=true&title_color=0EA5E9&text_color=94A3B8" alt="Top Languages"/>
+
+<br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dariushrahmani2005&bg_color=00000000&color=0EA5E9&line=22C55E&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
-
-I'm open to backend development opportunities, collaboration, and discussions around Node.js and backend engineering.
-
-- 🌐 Website: [dariushrahmani.ir](https://www.dariushrahmani.ir)
-- 💼 LinkedIn: [dariushramani-dev](https://www.linkedin.com/in/dariushramani-dev)
-- 📧 Email: [dariushrahmanidev@gmail.com](mailto:dariushrahmanidev@gmail.com)
-- 🐙 GitHub: [Dariushrahmani2005](https://github.com/Dariushrahmani2005)
-
----
+## 🤝 Let's Connect
 
 <div align="center">
 
-### Build. Learn. Improve. Repeat.
+I'm interested in **backend development opportunities**, collaborations and conversations around Node.js, APIs and backend engineering.
 
-<sub>Backend-focused • Production-minded • Always learning</sub>
+<br/><br/>
+
+<a href="https://www.dariushrahmani.ir">
+  <img src="https://img.shields.io/badge/Website-Visit%20Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+</a>
+<a href="https://www.linkedin.com/in/dariushramani-dev">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:dariushrahmanidev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Send%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+### `Building reliable backends, one endpoint at a time.`
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:0EA5E9,100:22C55E&height=120&section=footer" alt="Footer"/>
 
 </div>
